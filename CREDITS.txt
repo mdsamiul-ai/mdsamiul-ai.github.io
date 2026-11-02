@@ -1,0 +1,4 @@
+Design reference: https://pratikrelekar-github-io-main.vercel.app/
+Hero background source: https://pratikrelekar-github-io-main.vercel.app/assets/img/bg1.jpg
+Fonts: Open Sans, Poppins, Raleway from Google Fonts. See FONT-LICENSES.txt.
+Portfolio code, project graphics and monogram adapted for Samiul Islam.
